@@ -1,7 +1,7 @@
 #jawaban nomer dua
 def gcd(m,n): 
   while m%n != 0: 
-    oldm = m 
+      oldm = m 
       oldn = n 
  
       m = oldn 
